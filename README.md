@@ -13,8 +13,8 @@
 
 ### 笔记版缩略图
 
-<img src="http://47.94.135.183/files/true.png"> </img>
+<img src="http://47.94.135.183/files/withnote.png"> </img>
 
 ### 无笔记版缩略图
 
-<img src="http://47.94.135.183/files/false.png"> </img>
+<img src="http://47.94.135.183/files/withoutnote.png"> </img>
