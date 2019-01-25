@@ -9,13 +9,12 @@
 - 我不保证这个web会长期持续更新，也不保证这里不会有其他什么乱七八糟的东西 - -
 - 如果您也是计算机相关专业的本科生，欢迎关注我的[CSDN博客](https://me.csdn.net/zhaohaibo_)。
 
-
 ---
 
 ### 笔记版缩略图
 
-<img src="http://47.94.135.183/files/true.png"> </img>
+<img src="http://47.94.135.183/files/withnote.png"> </img>
 
 ### 无笔记版缩略图
 
-<img src="http://47.94.135.183/files/false.png"> </img>
+<img src="http://47.94.135.183/files/withoutnote.png"> </img>
