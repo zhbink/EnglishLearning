@@ -5,4 +5,4 @@
 
 - 为了方便复习，**我把最近的笔记放在了一个不常用的域名下，您可以[点击查看](http:www.ncstoj.cn/llyd.html)。**
 - 我不保证这个笔记和web页面会长期持续更新。
-- 如果您觉得笔记不错，可以给我的博客增加一个关注[CSDN博客](https://me.csdn.net/zhaohaibo_)。
+- 如果您觉得笔记不错，可以给[我的CSDN博客](https://me.csdn.net/zhaohaibo_)增加一个关注。
